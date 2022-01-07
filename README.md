@@ -1,6 +1,6 @@
 # Upload images
 
-[Link desafio](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
+[Link desafio](https://www.notion.so/Desafio-02-Upload-de-imagens-4cf1c3b1c1ad4a66961b6e48558cc3b8)
 
 &nbsp;
 
